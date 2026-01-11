@@ -1,61 +1,93 @@
-# Steve Lacy – Bad Habit
+# SEKAI NO OWARI – Habit
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 
 ```
-I wish I knew you wanted me
-I wish I knew
-I wish I knew you wanted me
-I wish I knew
-I wish I knew you wanted me
-What you, ooh, uh, what you do?
-Made a move, could've made a move
-If I knew I'd be with you
-Is it too late to pursue?
-I bite my tongue, it's a bad habit
-Kinda mad that I didn't take a stab at it
-Thought you were too good for me, my dear
-Never gave me time of day, my dear
-It's okay, things happen for
-Reasons that I think are sure, yeah
-I wish I knew
-I wish I knew you wanted me (I wish I knew)
-I wish I knew (oh)
-I wish I knew you wanted me
-I wish I knew (yeah)
-I wish I knew you wanted me (oh)
-I wish I knew
-I wish I knew you wanted me
-Please say to me (please, just say to me)
-If you still want it
-I wish you wouldn't play with me
-I wanna know (I wanna know)
-Uh, can I bite your tongue like my bad habit?
-Would you mind if I tried to make a pass at it?
-No, you're not too good for me, my dear
-Funny you'd come back to me, my dear
-It's okay, things happen for
-Reasons that I can't ignore, yeah
-I wish I knew
-I wish I knew you wanted me
-I wish I knew (wish I knew)
-I wish I knew you wanted me (oh)
-You can't surprise a Gemini (I wish I knew)
-I'm everywhere, I'm cross-eyed-ed (I wish I knew you wanted me)
-Now that you're back, I can't decide (I wish I knew)
-If I decide if you're invited (I wish I knew you wanted me)
-You always knew the way to wow me
-Fuck around, get tongue-tied-ed
-I turn it on, I make it rowdy
-Then carry on, but I'm not hidin'
-You grabbin' me hard 'cause you know what you found
-It's biscuits, is gravy, babe
-You can't surprise a Gemini
-But you know it's biscuits, it's gravy, babe
-I knew you'd come back around
-'Cause you know it's biscuits, it's gravy, babe
-Let's fuck in the back of the mall, lose control
-Go stupid, go crazy, babe
-I know I'll be in your heart 'til the end
-You'll miss me, don't beg me, babe
+君たちったら何でもかんでも
+分類､区別､ジャンル分けしたがる
+ヒトはなぜか分類したがる
+習性があるとかないとか
+この世の中2種類の人間がいる
+とかいう君たちが標的
+持ってるヤツとモテないヤツとか
+ちゃんとやるヤツと
+ヤッてないヤツとか
+隠キャ陽キャ？
+君らは分類しないと
+どうにも落ち着かない
+気付かない本能の外側を
+覗いていかない？気分が乗らない？
+つまり それは そんな
+シンプルじゃない
+もっと 曖昧で 繊細で
+不明瞭なナニカ
+例えば持ってるのに出せないヤツ
+やってるのにイケないヤツ
+持ってるのに悟ったふりして
+スカしてるうちに
+不安になっちゃったりするヤツ
+所詮アンタはギフテッド
+アタシは普通の主婦ですと
+それは良いでしょう？
+素晴らしいでしょう？
+不可能の証明の完成なんじゃない？
+夢を持てなんて言ってない
+そんな無責任になりはしない
+ただその習性に喰われないで
+そんなHabit捨てる度
+見えてくる君の価値
+俺たちだって動物
+こーゆーのって好物
+ここまで言われたらどう？
+普通 腹の底からこうふつふつと
+俺たちだって動物
+故に持ち得るOriginalな習性
+自分で自分を分類するなよ
+壊して見せろよ そのBad Habit
+壊して見せろよ そのBad Habit
+大人の俺が言っちゃいけない事
+言っちゃうけど
+説教するってぶっちゃけ快楽
+酒の肴にすりゃもう傑作
+でもって君も進むキッカケになりゃ
+そりゃそれでWin-Winじゃん？
+こりゃこれで残念じゃん
+そもそもそれって君次第だし
+その後なんか俺興味ないわけ
+この先君はどうしたい？
+ってヒトに問われる事自体
+終わりじゃないと信じたいけど
+そーじゃなきゃかなり非常事態
+君たちがその分類された
+普通の箱で燻ってるからさ
+俺は人生イージーモード
+ずっとそこで眠っててアラサー
+俺はそもそもスペックが低い
+だから足掻いて踠いて醜く吠えた
+俺のあの頃を分類したら
+誰の目から見ても明らか
+すぐ世の中、金だとか、
+愛だとか、運だとか、縁だとか
+なぜ2文字で片付けちゃうの
+俺たちはもっと曖昧で
+複雑で不明瞭なナニカ
+悟ったふりして驕るなよ
+君に君を分類する能力なんてない
+俺たちだって動物
+こーゆーのって好物
+ここまで言われたらどう？
+普通 腹の底からこうふつふつと
+俺たちだって動物
+故に持ち得るoriginalな習性
+自分で自分を分類するなよ
+壊して見せろよ そのBad Habit
+俺たちだって動物
+こーゆーのって好物
+ここまで言われたらどう？
+普通 腹の底からこうふつふつと
+俺たちだって動物
+故に持ち得るoriginalな習性
+自分で自分を分類するなよ
+壊して見せろよ そのBad Habit
+壊して見せろよ そのBad Habit
 ```
